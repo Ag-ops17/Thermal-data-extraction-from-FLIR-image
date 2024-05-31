@@ -1,0 +1,1 @@
+# Thermal-data-extraction-from-FLIR-image
